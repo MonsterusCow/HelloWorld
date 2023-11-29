@@ -6,6 +6,7 @@ public class Main {
         System.out.println("WOWIE");
         System.out.println("yet another change");
         System.out.println("def in replit");
+        System.out.println("change");
     }
 
 }
